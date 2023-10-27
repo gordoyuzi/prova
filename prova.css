@@ -1,0 +1,13 @@
+.hotel {
+    background-color: #9D8080;
+    height: 50px;
+    width: 5000px;
+}
+
+.hero{
+    background-image: url(/hero.jpg);
+    background-size: 100%;
+    height: 100%;
+  padding: 155px;
+  color: aliceblue;
+}
